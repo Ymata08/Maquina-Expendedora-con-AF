@@ -5,6 +5,8 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Item Name="Messages for this Actor" Type="Folder">
 		<Item Name="Init Msg.lvclass" Type="LVClass" URL="../../Nestle Actor Messages/Init Msg/Init Msg.lvclass"/>
+		<Item Name="Invent nestle Msg.lvclass" Type="LVClass" URL="../../Nestle Actor Messages/Invent nestle Msg/Invent nestle Msg.lvclass"/>
+		<Item Name="rest invent Msg.lvclass" Type="LVClass" URL="../../Nestle Actor Messages/rest invent Msg/rest invent Msg.lvclass"/>
 	</Item>
 	<Item Name="Nestle Actor.lvclass" Type="LVClass" URL="../Nestle Actor.lvclass"/>
 </Library>

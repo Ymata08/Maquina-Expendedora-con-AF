@@ -5,6 +5,8 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Item Name="Messages for this Actor" Type="Folder">
 		<Item Name="Init Msg.lvclass" Type="LVClass" URL="../../Coca Actor Messages/Init Msg/Init Msg.lvclass"/>
+		<Item Name="Inventario coca Msg.lvclass" Type="LVClass" URL="../../Coca Actor Messages/Inventario coca Msg/Inventario coca Msg.lvclass"/>
+		<Item Name="rest invent Msg.lvclass" Type="LVClass" URL="../../Coca Actor Messages/rest invent Msg/rest invent Msg.lvclass"/>
 	</Item>
 	<Item Name="Coca Actor.lvclass" Type="LVClass" URL="../Coca Actor.lvclass"/>
 </Library>
