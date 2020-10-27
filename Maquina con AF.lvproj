@@ -14,10 +14,14 @@
 			<Item Name="MXN Actor.lvlib" Type="Library" URL="../MXN Actor/MXN Actor.lvlib"/>
 			<Item Name="USD Actor.lvlib" Type="Library" URL="../USD Actor/USD Actor.lvlib"/>
 		</Item>
+		<Item Name="Messages Actors" Type="Folder">
+			<Item Name="Messages Actor.lvlib" Type="Library" URL="../Messages Actor/Messages Actor.lvlib"/>
+		</Item>
 		<Item Name="Products Actors" Type="Folder">
 			<Item Name="Coca Actor.lvlib" Type="Library" URL="../Coca Actor/Coca Actor.lvlib"/>
 			<Item Name="Nestle Actor.lvlib" Type="Library" URL="../Nestle Actor/Nestle Actor.lvlib"/>
 		</Item>
+		<Item Name="Launcher.vi" Type="VI" URL="../UI Actor/Launcher.vi"/>
 		<Item Name="UI Actor.lvlib" Type="Library" URL="../UI Actor/UI Actor.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
